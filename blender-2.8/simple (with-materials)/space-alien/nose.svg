@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="nose.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="5.3094837"
+     inkscape:cx="233.73271"
+     inkscape:cy="514.26846"
+     inkscape:window-width="1297"
+     inkscape:window-height="970"
+     inkscape:window-x="379"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="98.850246,107.77395"
+       end_point="99.312386,109.77737"
+       center_point="99.081316,108.77566"
+       id="path-effect9091"
+       is_visible="true"
+       lpeversion="1.1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false"
+       split_open="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path862"
+       transform="matrix(0.97439519,0.22484218,-0.22076442,0.97532716,0,0)"
+       d="m 97.9868,109.47504 c 0,0.36396 -0.73235,0.659 -1.635749,0.659 -0.903399,0 -1.635748,-0.29504 -1.635748,-0.659 0,-0.36396 0.732349,-0.65901 1.635748,-0.65901 0.903399,0 1.635749,0.29505 1.635749,0.65901 z m 2.38479,-0.55012 c 0.15943,0.32719 0.94702,0.27162 1.75914,-0.12411 0.81211,-0.39572 1.34122,-0.98176 1.18179,-1.30894 -0.15943,-0.32718 -0.94702,-0.27162 -1.75914,0.12411 -0.81211,0.39573 -1.34122,0.98176 -1.18179,1.30894 z"
+       style="opacity:1;fill:#6fa84a;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       inkscape:export-filename="d:\Vm\shared\space-alien\nose.png"
+       inkscape:export-xdpi="736.48212"
+       inkscape:export-ydpi="736.48212" />
+  </g>
+</svg>
