@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="teeth.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2891411"
+     inkscape:cx="330.06474"
+     inkscape:cy="294.76992"
+     inkscape:window-width="1904"
+     inkscape:window-height="1001"
+     inkscape:window-x="-98"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9878"
+       inkscape:export-filename="D:\myprojects\git\3d-models\blender-2.8\simple (with-materials)\toy-robot-3\teeth.png"
+       inkscape:export-xdpi="130.048"
+       inkscape:export-ydpi="130.048"
+       transform="matrix(2.4270705,0,0,2.4270705,-90.485545,-164.65123)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+         id="rect9432"
+         width="41.201935"
+         height="19.856972"
+         x="55.927906"
+         y="74.963913" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect1010"
+         width="0.83919275"
+         height="7.8350172"
+         x="72.955956"
+         y="87.343552"
+         transform="matrix(0.99859577,-0.05297631,0.04192353,0.99912082,0,0)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect2878"
+         width="0.83919275"
+         height="7.8350172"
+         x="78.039093"
+         y="79.693916"
+         transform="matrix(0.99894666,0.04588639,-0.056937,0.99837777,0,0)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect3834"
+         width="0.83919275"
+         height="7.8350172"
+         x="90.100601"
+         y="62.530785"
+         transform="matrix(0.96874098,0.24807442,-0.25877842,0.96593671,0,0)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect3836"
+         width="0.83919275"
+         height="7.8350172"
+         x="96.772873"
+         y="46.084492"
+         transform="matrix(0.91008819,0.41441464,-0.42445946,0.90544694,0,0)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect3838"
+         width="0.83919275"
+         height="7.8350172"
+         x="100.14557"
+         y="29.930943"
+         transform="matrix(0.83079647,0.55657634,-0.56573508,0.82458706,0,0)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect3840"
+         width="0.83919275"
+         height="7.8350172"
+         x="99.901535"
+         y="17.28437"
+         transform="matrix(0.75424782,0.65658984,-0.66489544,0.74693644,0,0)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect3842"
+         width="0.83919275"
+         height="7.8350172"
+         x="57.369102"
+         y="100.32576"
+         transform="matrix(0.96852406,-0.24891996,0.23818793,0.97121908,0,0)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect3844"
+         width="0.83919275"
+         height="7.8350172"
+         x="41.608311"
+         y="108.9954"
+         transform="matrix(0.90894794,-0.41690964,0.40682654,0.91350543,0,0)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect3846"
+         width="0.83919275"
+         height="7.8350172"
+         x="24.93639"
+         y="114.77155"
+         transform="matrix(0.82164925,-0.56999344,0.56086693,0.82790596,0,0)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.229065"
+         id="rect3848"
+         width="0.83919275"
+         height="7.8350172"
+         x="6.7847862"
+         y="117.53632"
+         transform="matrix(0.7046279,-0.70957701,0.70173681,0.71243628,0,0)" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 58.993965,80.61783 c 1.804749,2.08654 4.805468,4.210636 7.365385,5.744273 2.157972,1.249296 6.127627,2.15186 7.72155,2.318011 1.347151,0.145993 3.313789,-0.116933 4.908539,-0.397149 1.895971,-0.348217 3.540426,-0.795542 5.300445,-1.589991 1.619878,-0.891182 3.318092,-1.744334 4.766821,-2.889826 1.004186,-0.829074 2.98371,-2.472953 3.838981,-3.459354 0,0 -0.501207,-0.67967 -1.268312,-1.112234 -1.598427,2.471679 -4.266508,3.9758 -7.021434,5.491862 -1.782415,0.975724 -3.608587,1.483708 -5.488835,1.988123 -1.8274,0.372482 -4.085387,0.475806 -5.575839,0.327866 -1.782815,-0.211484 -3.575494,-0.761805 -5.103756,-1.451601 -1.570132,-0.722862 -4.004804,-2.290002 -5.408455,-3.289643 -1.101273,-0.91979 -2.059256,-1.768269 -3.080719,-2.630004 -0.723877,0.472638 -0.954371,0.949667 -0.954371,0.949667 z"
+         id="path4369"
+         sodipodi:nodetypes="ccccccccccccccc" />
+    </g>
+  </g>
+</svg>
