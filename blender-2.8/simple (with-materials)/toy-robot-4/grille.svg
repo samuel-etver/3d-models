@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="grille.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="false"
+     inkscape:zoom="1.0469406"
+     inkscape:cx="386.84143"
+     inkscape:cy="303.26458"
+     inkscape:window-width="1904"
+     inkscape:window-height="980"
+     inkscape:window-x="122"
+     inkscape:window-y="13"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3505"
+       id="pattern4505"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,37.784226,139.67706)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3505"
+       id="pattern4503"
+       patternTransform="matrix(0.14463042,0,0,0.13797373,168.40733,129.78512)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3053">
+      <rect
+         style="opacity:1;fill:#0000ff;fill-rule:evenodd;stroke-width:0.235093"
+         id="rect3055"
+         width="22.062698"
+         height="20.063"
+         x="66.215279"
+         y="47.560444" />
+    </clipPath>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="83.386576"
+       height="75.82866"
+       patternTransform="translate(198.20604,416.1591)"
+       id="pattern3505">
+      <g
+         id="g3051"
+         clip-path="url(#clipPath3053)"
+         transform="matrix(3.7795276,0,0,3.7795276,-250.26247,-179.75601)">
+        <rect
+           style="fill:#9c9c9c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+           id="rect1058"
+           width="75.411552"
+           height="56.111912"
+           x="38.420578"
+           y="26.983755" />
+        <g
+           id="g1959">
+          <circle
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.274184"
+             id="path846"
+             cx="60.754513"
+             cy="47.173283"
+             r="5" />
+          <circle
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.274184"
+             id="circle1770"
+             cx="71.655235"
+             cy="47.173283"
+             r="5" />
+          <circle
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.274184"
+             id="circle1772"
+             cx="82.555969"
+             cy="47.173283"
+             r="5" />
+        </g>
+        <g
+           id="g1967"
+           transform="translate(5.3610108,10.00722)">
+          <circle
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.274184"
+             id="circle1961"
+             cx="60.754513"
+             cy="47.173283"
+             r="5" />
+          <circle
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.274184"
+             id="circle1963"
+             cx="71.655235"
+             cy="47.173283"
+             r="5" />
+          <circle
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.274184"
+             id="circle1965"
+             cx="82.555969"
+             cy="47.173283"
+             r="5" />
+        </g>
+        <g
+           id="g1975"
+           transform="translate(0,20.01444)">
+          <circle
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.274184"
+             id="circle1969"
+             cx="60.754513"
+             cy="47.173283"
+             r="5" />
+          <circle
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.274184"
+             id="circle1971"
+             cx="71.655235"
+             cy="47.173283"
+             r="5" />
+          <circle
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.274184"
+             id="circle1973"
+             cx="82.555969"
+             cy="47.173283"
+             r="5" />
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#pattern4505);stroke:none;stroke-width:0.264583"
+       width="22.062696"
+       height="20.063"
+       x="37.784225"
+       y="139.67705"
+       id="rect3521" />
+    <rect
+       style="fill:url(#pattern4503);fill-opacity:1;fill-rule:evenodd;stroke-width:0.554098"
+       id="rect3423"
+       width="100"
+       height="100"
+       x="21.986683"
+       y="9.6033764" />
+  </g>
+</svg>
