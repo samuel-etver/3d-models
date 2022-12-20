@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="mario-flag.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.89263468"
+     inkscape:cx="143.95587"
+     inkscape:cy="471.63751"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1945"
+       x="-0.019413666"
+       y="-0.019413666"
+       width="1.0388273"
+       height="1.0388273">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.30854552"
+         id="feGaussianBlur1947" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1949"
+       x="-0.0079849371"
+       y="-0.010945205"
+       width="1.0159699"
+       height="1.0218904">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.27711196"
+         id="feGaussianBlur1951" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3117"
+       inkscape:export-filename="mario-flag.png"
+       inkscape:export-xdpi="153.68372"
+       inkscape:export-ydpi="153.68372">
+      <path
+         id="rect1518"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583;filter:url(#filter1949)"
+         d="m 29.344311,29.344311 83.290409,29.640718 v 1.482037 L 29.344311,90.107784 Z"
+         sodipodi:nodetypes="ccccc" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.183582;filter:url(#filter1945)"
+         id="path1572"
+         cx="53.455086"
+         cy="59.726048"
+         r="19.071856"
+         transform="matrix(0.85039282,0,0,0.85039282,7.9972643,8.9354452)" />
+      <g
+         aria-label="M"
+         id="text2733"
+         style="font-weight:bold;font-size:29.6485px;line-height:1.25;font-family:Candara;-inkscape-font-specification:'Candara Bold';fill:#ff0000;stroke-width:0.741213">
+        <path
+           d="m 64.814538,68.778961 h -4.212751 q 0,-2.461057 -0.304013,-8.29521 -0.304013,-5.84863 -0.318489,-7.296311 h -0.217153 q -0.144768,0.868609 -0.76727,3.213851 -0.622503,2.345243 -2.345243,6.919914 -1.708263,4.560194 -1.708263,5.457756 h -3.199375 q 0,-0.926515 -1.650355,-5.515663 -1.63588,-4.589148 -2.142568,-6.427702 -0.506688,-1.838555 -0.810701,-3.648156 h -0.217152 q -0.01448,1.809601 -0.36192,7.759569 -0.332967,5.949967 -0.332967,7.831952 h -3.821877 q 0,-0.434304 1.04233,-8.700561 1.056807,-8.266256 1.056807,-10.148241 h 5.602524 q 0,1.621402 1.766171,7.151542 1.780647,5.53014 1.780647,7.079159 h 0.217152 q 0,-1.563495 2.012276,-7.093636 2.026753,-5.53014 2.026753,-7.137065 h 5.559094 q 0,2.996699 0.665933,10.69836 0.68041,7.687184 0.68041,8.150442 z"
+           id="path3110" />
+      </g>
+    </g>
+  </g>
+</svg>
