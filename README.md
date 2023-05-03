@@ -10,5 +10,3 @@ Blender<br>
 Inkscape<br>
 Gimp<br>  
 </p>
-
-![](blender-2.8/simple (with-materials)/spark-plug/render.png)  
