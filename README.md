@@ -1,14 +1,9 @@
-# 3d-models
-3d models collection
+# 3d-models (Part 1)
 
+3d models collection 
 
-Enjoying modeling!
+## Tools
 
-# Tools
-<p>
-Blender<br>
-Inkscape<br>
-Gimp<br>  
-</p>
+Blender-2.8
 
 ![](screenshots/image1.png) 
